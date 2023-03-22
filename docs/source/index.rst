@@ -8,6 +8,8 @@ and offers a *simple* and *intuitive* API.
 
 **CONFIA QUE VAI DAR CERTO**.
 
+ATUALIZACAO DE TEXTO DA DOCUMENTATACAO.
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
