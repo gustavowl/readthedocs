@@ -6,9 +6,7 @@ that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
-**CONFIA QUE VAI DAR CERTO**.
-
-ATUALIZACAO DE TEXTO DA DOCUMENTATACAO.
+**ESPERO QUE AGORA VA COM O PYDATA THEME**.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
